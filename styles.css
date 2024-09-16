@@ -1,0 +1,33 @@
+body {
+    margin:0;
+    padding:0;
+    font-family: Arial,sans-serif;
+    color: white
+    ;background-color:black;
+}    
+header{
+    text-align: center;padding: 20px;
+}  
+h1{
+    color: gold;
+}  
+main{
+    padding: 20px;
+}    
+h2{
+    color: gold;
+}  
+ul{
+    list-style-type: none;padding:0 ;
+}   
+li{
+    margin-bottom: 10px;
+}
+footer{
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom:0 ;
+    background-color: #222;
+}
